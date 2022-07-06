@@ -11,8 +11,8 @@ Hi, we are Team 9; and this is a repository for our codebase.
 Our primary objective is **to help people** with an interest in subjective well-being (including politicians and bureaucrats) **understand which feature impacts the Happiness Score the most** so that they can try improving it.  
 
 To gain some understanding of our project before playing around with our Decision Support System, please refer to the documents below:  
-    * [ML Canvas for DSS](https://docs.google.com/document/d/1u4ShCuBDY856Qx5RbafQVW9qb2eHTPUJ/edit?usp=sharing&ouid=104657686272436864334&rtpof=true&sd=true)  
-    * [Status Report (for development)](https://docs.google.com/document/d/1HikO9uLtq5pj5dgth8HtPZjJlEASzyajwIKiX_4ZXDM/edit?usp=sharing)
+* [ML Canvas for DSS](https://docs.google.com/document/d/1u4ShCuBDY856Qx5RbafQVW9qb2eHTPUJ/edit?usp=sharing&ouid=104657686272436864334&rtpof=true&sd=true)  
+* [Status Report (for development)](https://docs.google.com/document/d/1HikO9uLtq5pj5dgth8HtPZjJlEASzyajwIKiX_4ZXDM/edit?usp=sharing)
 
 ## Data
 
