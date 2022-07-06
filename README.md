@@ -30,10 +30,12 @@ As mentioned earlier, we referenced [MoemenGaafar's repository](https://github.c
 
 We used Streamlit to make our own user interface.
 
-## Cloning Repository
+## Instructions
 
-If you would like to run the code on your local machine, copy-paste the following command in the terminal:
+* If you would like to **run the code on your local machine**, copy-paste the following command in the terminal:
 
-```
-git clone https://github.com/s00hyunkim/world-happiness-regression.git
-```
+    ```
+    git clone https://github.com/s00hyunkim/world-happiness-regression.git
+    ```
+
+* If you would like to **interact with our user interface**, visit [this link](https://www.google.com).
