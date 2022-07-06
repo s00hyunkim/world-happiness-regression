@@ -1,7 +1,7 @@
 # MSCI 436 (S2022): Regression for World Happiness Score
 
 > **Author: Team 9**  
-> Vatsal Bora, Shivani Chidella, Soohyun Kim, Louis Liu
+> Vatsal Bora, Shivani Chidella, Soohyun Kim, Louis Liu  
 > *(Note: We referenced [MoemenGaafar's repository](https://github.com/MoemenGaafar/World-Happiness-Machine-Learning/blob/main/Project_Notebook.ipynb))*
 
 ## Introduction
