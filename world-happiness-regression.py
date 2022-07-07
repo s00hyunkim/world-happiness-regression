@@ -41,7 +41,6 @@ print('[# OF NON-NULL VALUES OF EACH FEATURE]')
 print(data.info())
 print('')
 # 2-6. check correlation between each feature and target
-#      to see if we need to drop more before getting into modelling
 print('[CORRELATION BETWEEN FEATURES AND SCORE]')
 print(data.corr()['Ladder'])
 print('')
