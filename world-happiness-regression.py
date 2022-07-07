@@ -36,11 +36,11 @@ print('[% OF NULL VALUES OF EACH FEATURE]')
 for col in data.columns:
     print(col,  ': %.2f%%' %((data[col].isnull().sum() / data.shape[0]) * 100))
 print('')
-# 2-6. check how many non-null values each feature has
+# 2-5. check how many non-null values each feature has
 print('[# OF NON-NULL VALUES OF EACH FEATURE]')
 print(data.info())
 print('')
-# 2-9. check correlation between each feature and target
+# 2-6. check correlation between each feature and target
 #      to see if we need to drop more before getting into modelling
 print('[CORRELATION BETWEEN FEATURES AND SCORE]')
 print(data.corr()['Ladder'])
@@ -63,6 +63,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, rando
 
 # STEP 5: BUILD REGRESSION MODELS
 print('[WITH NEITHER NORMALIZATION NOR STANDARDIZATION]')
+
 print('[STANDARD LINEAR REGRESSION]')
 reg = LinearRegression().fit(X_train, y_train)
 y_pred = reg.predict(X_test)
@@ -75,6 +76,7 @@ for col in X.columns:
   print(col, ":", coef[i])
   i = i + 1
 print('')
+
 print('[RIDGE REGRESSION]')
 ridge_reg = Ridge().fit(X_train, y_train)
 y_pred = ridge_reg.predict(X_test)
