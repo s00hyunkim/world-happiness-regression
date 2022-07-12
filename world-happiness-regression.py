@@ -74,6 +74,8 @@ i = 0;
 for col in X.columns:
   print(col, ":", coef[i])
   i = i + 1
+intercept = reg.intercept_
+print(f'Standard linear regression y-intercept : {intercept}')
 print('')
 
 print('[RIDGE REGRESSION]')
@@ -81,10 +83,12 @@ ridge_reg = Ridge().fit(X_train, y_train)
 y_pred = ridge_reg.predict(X_test)
 r2 = r2_score(y_test, y_pred)
 print("Ridge linear regression R2 = ", r2, "\n")
-coef = reg.coef_
+coef = ridge_reg.coef_
 print("Ridge linear regression coefficients :")
 i = 0; 
 for col in X.columns:
   print(col, ":", coef[i])
   i = i + 1
+intercept = ridge_reg.intercept_
+print(f'Ridge linear regression y-intercept : {intercept}')
 print('')
