@@ -8,7 +8,7 @@
 
 Hi, we are Team 9; and this is a repository for our codebase.  
 
-Our primary objective is **to help people** with an interest in subjective well-being (including politicians and bureaucrats) **understand which feature impacts the Happiness Score the most** so that they can try improving it.  
+Our primary objective is **to help people** with an interest in subjective well-being (including politicians and bureaucrats) **understand which feature impacts the Happiness Score the most** so that they can try improving the policies accordingly.  
 
 To gain some understanding of our project before playing around with our Decision Support System, please refer to the documents below:  
 * [ML Canvas for DSS](https://docs.google.com/document/d/1u4ShCuBDY856Qx5RbafQVW9qb2eHTPUJ/edit?usp=sharing&ouid=104657686272436864334&rtpof=true&sd=true)  
@@ -28,14 +28,28 @@ As mentioned earlier, we referenced [MoemenGaafar's repository](https://github.c
 
 ## User Interface
 
-We used Streamlit to make our own user interface.
+We used Streamlit to make our own user interface.  
+
+![Snapshot](./UI%20Images/snapshot-of-user-interface.PNG)
 
 ## Instructions
 
-* If you would like to **run the code on your local machine**, copy-paste the following command in the terminal:
+1. If you would like to **run the code on your local machine**, copy-paste the following command in the terminal:
 
     ```
     git clone https://github.com/s00hyunkim/world-happiness-regression.git
     ```
 
-* If you would like to **interact with our user interface**, visit [this link](https://www.google.com).
+2. Make sure that you **install all the required libraries** before running any of the code files.
+
+3. If you would like to **run the regression models**, copy-paste the following command in the terminal:
+
+    ```
+    python world-happiness-regression.py
+    ```
+
+4. If you would like to **directly interact with our user interface**, copy-paste the following command in the terminal:
+
+    ```
+    streamlit run world-happiness-user-interface.py
+    ```
