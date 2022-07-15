@@ -30,7 +30,9 @@ As mentioned earlier, we referenced [MoemenGaafar's repository](https://github.c
 
 We used Streamlit to make our own user interface.  
 
-![Snapshot](./UI%20Images/snapshot-of-user-interface.PNG)
+![Snapshot 1](./user-interface-images/snapshot-of-user-interface-1.PNG)
+![Snapshot 2](./user-interface-images/snapshot-of-user-interface-2.PNG)
+![Snapshot 3](./user-interface-images/snapshot-of-user-interface-3.PNG)
 
 ## Instructions
 
