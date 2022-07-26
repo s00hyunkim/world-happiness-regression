@@ -12,7 +12,10 @@ Our primary objective is **to help people** with an interest in subjective well-
 
 To gain some understanding of our project before playing around with our Decision Support System, please refer to the documents below:  
 * [ML Canvas for DSS](https://docs.google.com/document/d/1u4ShCuBDY856Qx5RbafQVW9qb2eHTPUJ/edit?usp=sharing&ouid=104657686272436864334&rtpof=true&sd=true)  
-* [Status Report (for development)](https://docs.google.com/document/d/1HikO9uLtq5pj5dgth8HtPZjJlEASzyajwIKiX_4ZXDM/edit?usp=sharing)
+* [Status Report (for development)](https://docs.google.com/document/d/1HikO9uLtq5pj5dgth8HtPZjJlEASzyajwIKiX_4ZXDM/edit?usp=sharing)  
+* [Presentation Video](https://youtu.be/nHoNV7WtXsc)  
+* [Presentation Slide Deck](https://docs.google.com/presentation/d/1rCmUoYg46iJuAbulOO3vN4OJYQSnN1bjTHwtLgRquO0/edit?usp=sharing)  
+* [Demo of User Interface](https://youtu.be/tT1yHCS_4_Y)
 
 ## Data
 
